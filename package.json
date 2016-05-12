@@ -1,0 +1,30 @@
+{
+  "name": "eyeos-amqp",
+  "version": "0.0.61",
+  "description": "Ease management of ampq infrastructure.",
+  "author": "eyeOS",
+  "homepage": "http://www.eyeos.com/",
+  "main": "src/index.js",
+  "dependencies": {
+    "amqp": "0.2.4",
+    "bus-expectation": "0.0.15",
+    "log2out": "*",
+    "merge": "1.2.0",
+    "verror": "1.6.1"
+  },
+  "devDependencies": {
+    "eyeos-builder-utils": "*",
+    "eyeos-gruntfile": "*",
+    "chai": "1.8.0",
+    "sinon": "1.7.3",
+    "mocha": "1.20.1",
+    "grunt": "0.4.5",
+    "grunt-init": "0.2.1",
+    "grunt-shell": "0.7.0",
+    "grunt-mocha-test": "0.11.0",
+    "eyeos-authentication-fake": "*",
+    "request": "2.44.0",
+    "uuid": "2.0.1"
+  },
+  "license": "AGPL-3.0"
+}
