@@ -13,7 +13,6 @@
     "verror": "1.6.1"
   },
   "devDependencies": {
-    "eyeos-builder-utils": "*",
     "eyeos-gruntfile": "*",
     "chai": "1.8.0",
     "sinon": "1.7.3",
@@ -22,7 +21,6 @@
     "grunt-init": "0.2.1",
     "grunt-shell": "0.7.0",
     "grunt-mocha-test": "0.11.0",
-    "eyeos-authentication-fake": "*",
     "request": "2.44.0",
     "uuid": "2.0.1"
   },
