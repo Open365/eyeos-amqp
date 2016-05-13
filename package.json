@@ -1,6 +1,6 @@
 {
   "name": "eyeos-amqp",
-  "version": "0.0.62",
+  "version": "0.0.63",
   "description": "Ease management of ampq infrastructure.",
   "author": "eyeOS",
   "homepage": "http://www.eyeos.com/",
